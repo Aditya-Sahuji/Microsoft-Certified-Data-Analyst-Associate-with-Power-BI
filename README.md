@@ -6,6 +6,9 @@
 ## Analyzing and Visualizing Data with Microsoft Power BI
 The BI industry is booming, and every day, more hiring managers and recruiters are looking for professionals who not only know their way around BI tools, but have certifications to back their claims.
 
+<p align="center">
+<img src="/Certificate/Certificate.PNG" width=80% height=70%>
+
 Knowing this, what are you doing to let everyone know you mean business?
 
 Becoming Power BI certified is a must if you want to remain competitive in the analytics job market. Employers need to know that you can use their BI stack without training, and certifications do just that—they endorse the skills that can’t be measured on a resume, portfolio, or in an interview.
