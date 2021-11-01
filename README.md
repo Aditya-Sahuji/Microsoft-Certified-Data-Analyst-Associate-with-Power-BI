@@ -2,7 +2,7 @@
  [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/aditya-sahuji?tab=repositories)
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/aditya-sahuji) 
 
-# Microsoft-Certified-Data-Analyst-Associate-with-Power-BI 
+# Microsoft-Certified-Data-Analyst-Associate-with-Power-BI <img src="/Certificate/Badge.png" align="right" width="120" />
 ## Analyzing and Visualizing Data with Microsoft Power BI
 The BI industry is booming, and every day, more hiring managers and recruiters are looking for professionals who not only know their way around BI tools, but have certifications to back their claims.
 
@@ -31,7 +31,7 @@ Students Looking to Break into the Analytics Industry
 
 
 ## Course content
-8 sections • 142 lectures 
+### 8 sections • 142 lectures 
 
 Introduction
 
